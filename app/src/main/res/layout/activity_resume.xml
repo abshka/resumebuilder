@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/fullNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/ageTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/genderTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/maritalStatusTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/desiredPositionTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/desiredSalaryTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/educationTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/careerTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/skillsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/additionalInfoTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:fontFamily="@font/montserrat" />
+
+</LinearLayout>
