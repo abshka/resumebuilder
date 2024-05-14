@@ -86,11 +86,4 @@
         android:textSize="18sp"
         android:fontFamily="@font/montserrat" />
 
-    <Button
-        android:id="@+id/savePdfButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Сохранить в PDF"
-        android:layout_marginTop="16dp" />
-
 </LinearLayout>
